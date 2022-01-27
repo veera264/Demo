@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+#d{
+		padding-top:100px;
+		padding-left:250px;
+	}
+	
+	label{
+		color:aqua;
+	}
+	input{
+		border-color: orange;
+	}h2{
+		color:red;
+	}#h{
+		color:white;
+	}#i{
+		color:maroon;
+		border-color:rgb(66, 143, 189);
+	}
